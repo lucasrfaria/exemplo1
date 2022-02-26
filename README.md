@@ -1,2 +1,3 @@
-# exemplo1 modificado 
-exemplo da primeira criação de um repositório 
+exercicio aula 1 
+nome: Lucas Rodrigues de Faria
+idade: 21
